@@ -1,2 +1,4 @@
 # up2you-test
-go to /upload
+1: Inizializzare applicativo attraverso file composer-lock.json
+2: avviare aplicativo
+3: andare alla pagina /upload
